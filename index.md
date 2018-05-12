@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/aurorafw/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center"><img src="https://avatars1.githubusercontent.com/u/39140288?s=250&v=4"></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">A Powerful General Purpose Framework</p>
 
-### Markdown
+<p align="center">
+  <a href="https://travis-ci.org/aurorafw/aurora"><img src="https://travis-ci.org/aurorafw/aurora.svg" alt="Build Status"></a>
+  <a href="https://www.gnu.org/licenses/lgpl-3.0.html"><img src="https://img.shields.io/badge/license-LGPLv3-lightgrey.svg" alt="License"></a>
+  <a href="https://discord.gg/8wEpF75"><img src="https://discordapp.com/api/guilds/350229534832066572/embed.png" alt="Discord Server"></a>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About Aurora Framework
 
-```markdown
-Syntax highlighted code block
+Aurora is a Software Framework for General Purpose developed by Luís Ferreira that runs in all platforms, like (Windows NT and \*NIX Environments such as Linux and Apple Systems). It includes libraries to make code easier to use.
 
-# Header 1
-## Header 2
-### Header 3
+### Pages
+- [Documentation](docs)
 
-- Bulleted
-- List
+### Contributors
+ - Luís Ferreira (Project Founder)
+ - Ricardo Subtil
+ - Filipe Laíns
 
-1. Numbered
-2. List
+Want to contribute? Great! Follow our pull request guide, here.
 
-**Bold** and _Italic_ and `Code` text
+### Donations
+1$ is what you need to support the main developer of Aurora Framework. With this money you help me to buy 1 coffee per month! More coffee equals more code, so, lets donate patrons!
+<p><a href="https://www.patreon.com/ljmf00"><img src="https://www.partiallyexaminedlife.com/wp-content/uploads/patreon_logo.png" alt="Patreon Page" width="240"></a></p>
 
-[Link](url) and ![Image](src)
-```
+### License
+The GNU Lesser General Public License, version 3.0 (LGPL-3.0)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[![OSI](https://opensource.org/files/osi_logo_100X133_90ppi_0.png "Open Source Initiative")](https://opensource.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/512px-Open-source-hardware-logo.svg.png" alt="Open Source Hardware Association" width="120">](http://www.oshwa.org/ "Open Source Hardware Association")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aurorafw/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+More details coming soon. **It's freedom, it's [opensource](https://opensource.org/)!**
+This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.emoji-cheat-sheet.com/)

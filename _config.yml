@@ -1,3 +1,18 @@
+title: Aurora Framework
+email: auroraframework@gmail.com
+description: A Powerful General Purpose Framework
+google_analytics:
+show_downloads: false
+github_username: aurorafw
+
 theme: jekyll-theme-minimal
+markdown: kramdown
+
+github:
+  repository_url: https://github.com/aurorafw/aurora
+  repository_nwo: aurorafw/aurora
+
+gems:
+  - jekyll-mentions
 
 exclude: [vendor, "Gemfile", "Gemfile.lock"]
