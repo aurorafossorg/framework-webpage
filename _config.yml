@@ -8,6 +8,10 @@ github_username: aurorafw
 theme: jekyll-theme-minimal
 markdown: kramdown
 
+github:
+  repository_url: https://github.com/aurorafw/aurora
+  repository_nwo: aurorafw/aurora
+
 plugins:
   - jekyll-mentions
 
