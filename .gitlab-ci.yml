@@ -1,6 +1,9 @@
 # requiring the environment of Ruby 2.3.x
 image: ruby:2.3
 
+variables:
+  PAGES_REPO_NWO: "aurorafw/aurora"
+
 # add cache to 'vendor' for speeding up builds
 cache:
   paths: 
